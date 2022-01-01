@@ -1,1 +1,1 @@
-# This folder contains all the slides.
+# This folder contains all the lecture slides.
