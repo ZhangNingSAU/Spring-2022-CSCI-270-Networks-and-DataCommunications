@@ -1,4 +1,4 @@
-# CSCI 270 Fall 2021
+# CSCI 270 Spring 2022
 # Chpater 8: Subnet and VLANs
 
 # Objectives
