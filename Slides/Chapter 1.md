@@ -69,7 +69,7 @@ shared on the network.
   AD DS(domain service):: manages clients' getting accesss to server
   ~~~~
   
-  ![client-server example](https://www.onlinecomputertips.com/images/networking/n176.jpg)
+  ![client-server example](https://vivadifferences.com/wp-content/uploads/2019/12/Client-Server-Network.jpg)
   
   + Advantages and Disadvantages of Client-Server
      - advantage
