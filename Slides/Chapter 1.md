@@ -80,19 +80,19 @@ shared on the network.
      - disadvantage
         + more complex in their design and maintenance
       
-### applications vs. protocals
+### applications vs. protocols
   + The resources a network makes available to its users include applications and the data
 provided by these applications. Collectively, these resources are usually referred to as
 network services.
-  + protocals are agreements.
-  + applications follow protocals.
+  + protocols are agreements.
+  + applications follow protocols.
   
-  #### Protocals: 
-  A protocal consists of 
+  #### protocols: 
+  A protocols consists of 
   1. syntax：  in some specific format.
   2. semantic: meaningful.
   3. sequence: in order.
-  Only throught protocals, a group of computers can colaborate to complete a huge task.
+  Only throught protocols, a group of computers can colaborate to complete a huge task.
   #### Examples
   1. Data transmission: TCP, UDP, IP
   2. Web service: HTTP, HTTPS (for both server and client)
@@ -100,22 +100,22 @@ network services.
   4. FTP service: FTP (client-server)
   5. Telnet/remote control service: telnet(client-server)
   6. ...
-  **Protocals in OSI seven-layer model**
+  **protocols in OSI seven-layer model**
   
-  ![oso protocals](https://blogs.bmc.com/wp-content/uploads/2018/06/osi-model-7-layers-1024x734.jpg)
+  ![oso protocols](https://blogs.bmc.com/wp-content/uploads/2018/06/osi-model-7-layers-1024x734.jpg)
   
   
              
-  #### Characteristics of protocals:
+  #### Characteristics of protocols:
   1. too many to remember
-  2. You feel you understand some protocal, but you can not explain it clearly.
+  2. You feel you understand some protocols, but you can not explain it clearly.
   3. You do not know how to solve practical problems.
-  #### Procedure of learning  protocals:
+  #### Procedure of learning  protocols:
   1. You feel you know it once you learn it
   2. You feel overwhelmed when being asked questions
   3. You feel frustrated in real projects.
   
-  #### How to learning Computer Networks/Protocals?
+  #### How to learning Computer Networks/protocols?
   1. use daily examples
   2. use CISCO Packet Tracer
   [CISCO Packet Tracer: download and training course](https://www.netacad.com/courses/packet-tracer)
@@ -220,7 +220,7 @@ network services.
   **Layer 7: Application layer**
   + Interface between two applications, each on seperate computers.
   
-  + Protocals:  HTTP, SMTP, POP3, IMAP4, FTP, Telnet, RDP.
+  + protocols:  HTTP, SMTP, POP3, IMAP4, FTP, Telnet, RDP.
   
   + Two categories:
   
@@ -238,22 +238,22 @@ network services.
   
   **Layer 4: transport layer**
   + Responsible for transporting
-  + Protocals: TCP(transmisson control protocal), UDP(user datagram protocal)
+  + protocols: TCP(transmisson control protocols), UDP(user datagram protocols)
   + encapsulation: TCP and UDP add their own control information, called **header** to the message from upper layers.
   
   **Layer 3: Network layer**
   + responsible for moving data from one node to another until they reach the destination.
-  + protocal: IP(internet protocal), each node has an IP address.
+  + protocols: IP(internet protocols), each node has an IP address.
   
   **Layer 2: Data Link Layer**
   + Responsible for interfacing with physical hardware only on the local network.
-  + Protocals: programmed into the firmware of a computer's NIC and other networking hardware. (Firmware refers to programs embedded in hardware.)
+  + protocols: programmed into the firmware of a computer's NIC and other networking hardware. (Firmware refers to programs embedded in hardware.)
   + MAC(media access control) address: physical address, layer 2 adds MAC info.
   
   **Layer 1: Physical Layer**
   + responsible for sending bits.
   
-  **PDU: protocal data unit**: message from one layer to another
+  **PDU: protocols data unit**: message from one layer to another
   
   | OSI Layer(s)      | PDU name | Extremely technical name|
 | ----------- | ----------- |--------|
