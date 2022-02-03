@@ -1,6 +1,6 @@
-# CSCI 270 Spring 2021
+# CSCI 270 Spring 2022
 # Homework 1
-# due: 11:59PM 02/12/2019
+# due: 11:59PM 02/10/2022
 
 ## Step 1: Use CISCO Packet Tracer to create
 ### 1. a peer-to-peer topology network;
