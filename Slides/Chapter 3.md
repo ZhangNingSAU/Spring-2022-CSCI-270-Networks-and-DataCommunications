@@ -125,7 +125,7 @@ Note: APIPA(automatic private IP addressing) address is created when a computer 
 ![](../Resources/ch3-snatdnat.png)
 
 + SNAT and DNAT labs you can try.
-  - [SNAT setting on router](https://github.com/ZhangNingSAU/Fall-2021-CSCI-270-Networks-and-DataCommunications/blob/main/Labs/Ch3-SNAT.md)
+  - [SNAT setting on router](../Labs/Ch3-SNAT.md)
   - [SNAT](https://computernetworking747640215.wordpress.com/2018/07/05/static-nat-configuration-in-packet-tracer/)
   - [NDAT](https://computernetworking747640215.wordpress.com/2018/07/05/dynamic-nat-configuration-in-packet-tracer/)
   - [SNAT and DNAT](../Labs/NAT.pdf)
