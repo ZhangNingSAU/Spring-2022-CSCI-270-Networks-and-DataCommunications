@@ -161,6 +161,7 @@ Note: APIPA(automatic private IP addressing) address is created when a computer 
   - without the help of DHCPv6 server.
   - similar to how IPv4 uses an APIPA address.
 #### Labs
+  - [Lab: IPv6](../Labs/CH3-IPv6.md)
   - [IPv6 Configuration on Cisco Packet Tracer](https://ipcisco.com/lesson/ipv6-configuration-on-cisco-packet-tracer/)
 
 ## Ports and Sockets
