@@ -230,7 +230,7 @@ Note: APIPA(automatic private IP addressing) address is created when a computer 
      + **Q: The name resolution of www.sau.edu** 
   
   - DNS server software: BIND(Berkeley Internet Name Domain)
-  - [DNS Lab](https://github.com/ZhangNingSAU/Fall-2021-CSCI-270-Networks-and-DataCommunications/blob/main/Labs/CH3-DNS.md)
+  - [DNS Lab](../Labs/CH3-DNS.md)
  ## Command-line tools for troubleshooting
  ### ping(packet internet groper)
   - is used to verify that TCP/IP is installed, bound to NIC, configured correctly and communicating with the network.
