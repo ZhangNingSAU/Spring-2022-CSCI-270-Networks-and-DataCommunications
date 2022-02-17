@@ -1,6 +1,6 @@
-# CSCI 270 Fall 2021
+# CSCI 270 Spring 2022
 # Homework 2
-# Due: 11:59 pm 09/23/2019
+# Due: 11:59 pm 02/24/2022
 
 ## Q1: Use ipconfig(windows) or ifconfig(mac) to find out all the MAC address of you computer, then list the part of each MAC address that is unique to each manufacturer.(10 points)
 
@@ -19,11 +19,11 @@ hint:
 + One way to double-check your answer is to use the Packet Tracer to build a topology (you just need to use one wire to connect two PCs), set up the IP address and subnet mask for each PC, then use ping command to see if they can communicate.
 
 ## Q4: (10 points)
-____ substitutes privite IP with public IP.
+\_\_\_ substitutes privite IP with public IP.
 + A. NAT
 + B. PAT
 
-____ assigns each session between two ports a unique number.
+\_\_\_ assigns each session between two ports a unique number.
 + A. NAT
 + B. PAT
 
@@ -32,7 +32,7 @@ ____ assigns each session between two ports a unique number.
 ## Q6: Describe the process to find the IP address associated with the domain name `blackboard.sau.edu` for the first time. 
 ## What will happen if you request for the DNS service for the second time. (20 points)
 
-## Q7: Use CISCO Packet Trace to construct a LAN(several PCs, a switch and a router), choose and set up the static IP addresses for each PC and the router, make sure each interface of the PCs and the router inside the LAN can communicate with each other. (30 points)
+## Q7: Use CISCO Packet Trace to construct a LAN(several PCs, a switch and a router), choose and set up the static IP addresses for each PC and the router(only the interface connected to switch), make sure all the interfaces inside the LAN can communicate with each other. (30 points)
 
 Hint: 
 + choose private IP addresses for the interfaces/ports of PCs and router inside the LAN
