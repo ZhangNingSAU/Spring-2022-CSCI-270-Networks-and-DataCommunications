@@ -12,7 +12,7 @@
   - DNS Server: 192.168.1.3(You can find it in PC0->Config->Settings)
   - You can set IP and DNS Server in the same place. (PC0->Desktop->IP Configuration)
   
-  ![DNS0_1](../Resources/DNS0_2.png)
+  ![DNS0_1](../Resources/DNS0_1.png)
   
 + Web Server
   - IP: 192.168.1.2/24
