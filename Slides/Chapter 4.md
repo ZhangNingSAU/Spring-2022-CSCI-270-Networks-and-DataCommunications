@@ -65,6 +65,8 @@
 
 ![4 waves](https://www.programmersought.com/images/736/6c754bcce23cbabefdd69c3dd7717358.png)
 
+#### [TCP Lab](../Labs/CH4-TCP.md)
+
 ### UDP(user datagram protocol): a unreliable, connectionless protocol
 
 ![](../Resources/layer4.png)
@@ -128,6 +130,8 @@ A layer 3 protocal that
 
 ![arp mac](../Resources/ch4-arpmac.png)
 
+
+#### [ARP Lab](../Labs/CH4-ARP.md)
 
 ### Ethernet
 
