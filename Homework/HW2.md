@@ -29,8 +29,9 @@ hint:
 
 ## Q5: Explain the difference between SNAT and DNAT. (10 points)
 
-## Q6: Describe the process to find the IP address associated with the domain name `blackboard.sau.edu` for the first time. 
-## What will happen if you request for the DNS service for the second time. (20 points)
+## Q6: When you enter the domain name `blackboard.sau.edu` in your web brower address box, a DNS name resolution will be implemented to find the IP address associated with this url. Describe
+### 1. the whole DNS name resolution process when you try to visit `blackboard.sau.edu` for the very first time.(10 points)
+### 2. the whole DNS name resolution process when you try to visit `blackboard.sau.edu` for the second time.(10 points)
 
 ## Q7: Use CISCO Packet Trace to construct a LAN(several PCs, a switch and a router), choose and set up the static IP addresses for each PC and the router(only the interface connected to switch), make sure all the interfaces inside the LAN can communicate with each other. (30 points)
 
