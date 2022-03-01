@@ -111,7 +111,7 @@ A layer 3 protocal that
   - when data has been discarded.
   
 + note that: ICMP does not fix the failure, higher protocols such as TCP is responsible for that.
-
+  - Example: `ping` command
 ![](../Resources/ch4-icmp.png)
 
 ### ARP(address resolution protocol) on IPv4 networks
