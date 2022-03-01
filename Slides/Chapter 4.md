@@ -112,6 +112,7 @@ A layer 3 protocal that
   
 + note that: ICMP does not fix the failure, higher protocols such as TCP is responsible for that.
   - Example: `ping` command
+  - [ICMP Type and Code](https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol)
 ![](../Resources/ch4-icmp.png)
 
 ### ARP(address resolution protocol) on IPv4 networks
