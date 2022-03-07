@@ -1,6 +1,6 @@
 # CSCI 270 Spring 2022
 # Homework 3
-# Due: 11:59pm 03/10/2022
+# Due: 11:59pm 03/15/2022
 
 ## Q1: (5 points)
 Switches only work on layer 2.
