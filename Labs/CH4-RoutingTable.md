@@ -26,6 +26,7 @@ Always a good idea to show the port/interface names. Follow the following instru
   - Network (ID)
   - (Subnet) Mask
   - Next Hop
+  
 ![lab1-routing-6](../Resources/lab1-routing-6.png)
 
 # Step 4: Use `ping` command to check if the routing tables are working or not.
