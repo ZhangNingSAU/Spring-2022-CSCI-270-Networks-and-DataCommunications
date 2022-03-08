@@ -354,6 +354,9 @@ the network and determine the best path between itself and a message’s destina
   |10.0.0.0|30.0.0.2|2|
   |20.0.0.0|30.0.0.2|1|
   
+[Static Routing Table Lab](../Labs/CH4-RoutingTable.md)  
+[RIP Lab](../Labs/CH4-RIP.md)
+
 #### OSPF (Open Shortest Path First)
 + core or edge routers
 + only IPv4
