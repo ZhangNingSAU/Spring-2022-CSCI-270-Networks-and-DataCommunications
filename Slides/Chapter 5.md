@@ -259,6 +259,8 @@ drawback
 + These switches allows you to change and upgrade its interfaces at any time.
 + **hot-swappable**: Such transceivers are easily inserted into the sockets to connect with its motherboard and upgraded later as technology improves. 
 
+![Fiber Transceivers](http://www.fiber-optic-transceiver-module.com/wp-content/uploads/2015/06/using-fiber-optic-transceiver-300x205.jpg)
+
 ### GBIC (Gigabit interface converter)
 + GBICs might contain RJ-45 ports for copper cables or SC ports for fiber-optic connections.
 
