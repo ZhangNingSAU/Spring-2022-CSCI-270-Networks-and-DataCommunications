@@ -110,6 +110,10 @@
   - Excessive fading can cause dropped connec-
 tions or slow data transmission.
 + **attenuation**: the farther it moves away from the transmission source, the more it weakens.(wireless signal can be amplified by wireless range extender)
+  - wireless range extender
+  
+  ![wireless range extender](https://m.media-amazon.com/images/I/51Bq5gmIOiL._AC_SY741_.jpg)
+  
 + **interference**: Wireless signal is more vulnerable to noise.
 + **refraction**: As a wave travels into and through a different transmission medium, the wave’s direction, speed, and wavelength are altered, or refracted.
 + **reflection**: The wave encounters an obstacle and reflects, or bounces back, toward its source
