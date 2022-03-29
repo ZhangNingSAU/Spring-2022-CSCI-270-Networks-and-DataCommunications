@@ -106,6 +106,9 @@
 + Propagation refers to the way in which a wave travels from one point to another.
 + **LOS (line of sight)**: Ideally, a wireless signal would travel directly in a straight line from its transmitter to its intended receiver. 
 + **fading**: caused by obstacles.
+  - causes the strength of the signal that reaches the receiver to be lower than the transmitted signal’s strength
+  - Excessive fading can cause dropped connec-
+tions or slow data transmission.
 + **attenuation**: the farther it moves away from the transmission source, the more it weakens.(wireless signal can be amplified by wireless range extender)
 + **interference**: Wireless signal is more vulnerable to noise.
 + **refraction**: As a wave travels into and through a different transmission medium, the wave’s direction, speed, and wavelength are altered, or refracted.
