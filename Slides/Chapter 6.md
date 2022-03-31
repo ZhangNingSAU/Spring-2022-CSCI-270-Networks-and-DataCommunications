@@ -173,11 +173,12 @@ it encounters an obstruction.(caused by objects with sharp edges)
 
 ### Access Method
 + [shared medium](https://en.wikipedia.org/wiki/Shared_medium)
-+ CSMA/CA (Carrier Sense Multiple Access with Collision Avoidance) 
++ [CSMA/CA (Carrier Sense Multiple Access with Collision Avoidance)](https://en.wikipedia.org/wiki/Carrier-sense_multiple_access_with_collision_avoidance) 
 
   - source node
     + Using CSMA/CA, a node on an 802.11 network checks for existing wireless transmissions (the green circle in the following figure) before it begins to send data.
       - If the source node detects no transmission activity on the network, it waits a brief, random amount of time, and then sends its transmission.
+        + [brief/Exponential backoff](https://en.wikipedia.org/wiki/Exponential_backoff#Binary_exponential_backoff_/_truncated_exponential_backoff)
       - If the source does detect activity, it waits a brief period of time before checking the channel again.
   ![](../Resources/ch6-CSMA:CA.png)
   
