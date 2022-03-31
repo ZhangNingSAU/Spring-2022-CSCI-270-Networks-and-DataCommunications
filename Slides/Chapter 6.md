@@ -122,6 +122,7 @@
 + **diffraction**: A wireless signal is diffracted, or split into secondary waves, when
 it encounters an obstruction.(caused by objects with sharp edges)
 
+![](https://www.researchgate.net/publication/329009261/figure/fig3/AS:693772979560448@1542419776516/Signal-propagation-reflection-refraction-and-diffraction.ppm)
 
 ![](../Resources/ch6-multipath.png)
 
