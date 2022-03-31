@@ -132,7 +132,7 @@ it encounters an obstruction.(caused by objects with sharp edges)
 + Wireless signals have a better chance of reaching their destination.
 + Multiple instances of the same signal can arrive at a receiver at different times, which might result in data errors.
 + IEEE’s 802.11 standards, also known as Wi-Fi, to take advantage of the multipath signaling
-
++ [See more here](https://en.wikipedia.org/wiki/Multipath_propagation)
 
 
 ## Wireless Standards for the IoT (Internet of Things)
