@@ -253,6 +253,7 @@ The process of a wireless device getting access to an AP(access point).
 
 Note that: The transmitter and receiver addresses refer to the access point or another intermediary device (if used) on the wireless network.
 
++ [Lab: 802.11 Frame vs. 802/3 Frame](../Labs/CH6-802.11VS802.3.md)
 
 ### 802.11 Innovations
 #### Limit
@@ -296,6 +297,7 @@ Note that: The transmitter and receiver addresses refer to the access point or a
   - management of AP redundancy
   - detection of the presence of unthorized APs (rogue APs)
 
++ [Lab: Cisco Packet Trace Wireless Controller](https://www.youtube.com/watch?v=HZQpydTSvxU)
 
 ### 2. Wireless LAN Connection 
 + use a fixed link with directional antennas between two APs
