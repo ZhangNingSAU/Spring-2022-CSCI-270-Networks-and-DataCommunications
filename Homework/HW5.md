@@ -19,7 +19,7 @@ B. False
 What is LOS? Why LOS is usually impossible? What are the advantages and disadvantages of multipath?
 
 ## Q5: (10 points)
-What are the innovations of Wi-Fi 6(802.11ax)? (use the link provided in the lecture slides or do the research online)
+What are the innovations of Wi-Fi 6(802.11ax) and Wi-FI6E? (use the link provided in the lecture slides or do the research online)
 
 
 ## Q6: (10 points)
