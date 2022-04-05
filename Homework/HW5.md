@@ -1,6 +1,6 @@
 # CSCI 270 Homework Assignment 5
 # for Chapter 6
-# due: 11:59 pm  11/02/2021
+# due: 11:59 pm  04/12/2022
 
 ## Q1: (10 points)
 In 7-layer OSI model, at which layers LANs and WLANs share many similarities? at which layers they are vastly different?
