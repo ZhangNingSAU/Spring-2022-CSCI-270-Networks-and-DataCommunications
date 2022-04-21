@@ -1,6 +1,6 @@
-# CSCI 270 Fall 2021
+# CSCI 270 Spring 2022
 # Homework 6 for chapter 8
-# Due: 11:59 pm Tuesday 11/30/2021
+# Due: 11:59 pm  4/28/2022
 
 ## Q1(30 points): Divide network **192.168.1.0/24** into **4** subnets (each subnet has the same number of IP addresses) . List the information of the subnets in the following table.
 Note: 1. For the network ID column, you need to provide the subnet mask as well. <br>
