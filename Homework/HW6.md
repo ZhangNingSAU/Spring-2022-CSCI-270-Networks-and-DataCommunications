@@ -44,7 +44,7 @@ List the information of the subnets in the following table.
 + PC0 and PC1 use IPs from network 192.168.1.0/24 and defaut getway 192.168.1.1
 + PC2 and PC3 use IPs from network 192.168.2.0/24 and defaut getway 192.168.2.1
 
-### Hint: see the [lab](https://github.com/ZhangNingSAU/Fall-2021-CSCI-270-Networks-and-DataCommunications/blob/main/Labs/Ch8-VLAN.md).
+### Hint: see the [lab](../Labs/Ch8-VLAN.md).
 + In this lab, we only create one VLAN with number 20 and name lab1
 ### More hints 
 + We do not need to specify the ip address and mac address like what we did in step 3.1 in the lab, where we set the IP/MAC addresses for the default vlan (vlan 1)
