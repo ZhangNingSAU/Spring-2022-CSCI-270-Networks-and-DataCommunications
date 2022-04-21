@@ -67,10 +67,10 @@ to set VLAN200.
 Here, I used 192.168.1.0/24 and 192.168.2.0/24 as example, you can also use your own network IDs
 
 
-# Step 1: Save your answers for Q1-Q2 in a PDF file, name it as 'CSCI270_Homework6_JohnSmith(012345467).pdf' 
+# Step 1: Save your answers for Q1-Q2 in a PDF file, name it as 'CSCI270_Homework6_JohnDoe(012345467).pdf' 
     (You can write down your answer in any text edit and print it as a pdf file later.)
-# Step 2: create and save your cisco packet tracer project as 'CSCI270_Homework6_JohnSmith(012345467).pkt'
+# Step 2: create and save your cisco packet tracer project as 'CSCI270_Homework6_JohnDoe(012345467).pkt'
 
-# Step 3: Zip the previous two files as one archive, name it as 'CSCI270_Homework6_JohnSmith(012345467)'
+# Step 3: Zip the previous two files as one archive, name it as 'CSCI270_Homework6_JohnDoe(012345467)'
 
 # Step 4: Submit your archive file on [Blackboard](https://blackboard.sau.edu)
