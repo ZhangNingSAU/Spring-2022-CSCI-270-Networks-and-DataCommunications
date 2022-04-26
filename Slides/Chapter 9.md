@@ -138,14 +138,17 @@ and prevents it from being copied, such as downloading to a flash drive, or tran
     + FTP bounce:When a client running an FTP utility requests data from an FTP server, the client normally specifies its own IP address and FTP’s default port number.
   - HTTP
     + use HTTPS with SSL/TLS instead
+    + [HTTP vs. HTTPS](https://www.cloudflare.com/learning/ssl/why-is-http-not-secure/#:~:text=HTTPS%20is%20HTTP%20with%20encryption,uses%20HTTPS%20has%20https%3A%2F%2F.)
   - Telnet
     + use along with IPsec
     + SLIP
       - use PPP instead
   - TFTP
     + use SFTP instead
+    + [TFTP vs. SFTP](https://www.goanywhere.com/blog/tftp-vs-sftp-the-key-differences#:~:text=Both%20TFTP%20and%20SFTP%20are,delete%2C%20rename%20or%20change%20directories.)
   - SNMPv1 and SNMPv2
     + use SNMPv3 instead
+    + [SNMPv1 vs. SNMPv2 vs. SNMPv3](https://www.dpstele.com/snmp/v1-v2c-v3-difference.php)
 + back doors
   - security flaws that allow unauthorized users to gain access to the system.
   - the network administrator needs to perform regular updates.
