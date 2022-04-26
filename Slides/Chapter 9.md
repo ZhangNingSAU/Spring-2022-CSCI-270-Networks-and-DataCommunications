@@ -153,24 +153,26 @@ and prevents it from being copied, such as downloading to a flash drive, or tran
   - security flaws that allow unauthorized users to gain access to the system.
   - the network administrator needs to perform regular updates.
   - [OWASP 10 Most Common Backdoors](https://owasp.org/www-pdf-archive/OWASP_10_Most_Common_Backdoors.pdf)
- ## Malware Risks
- + Malware (short for malicious software) refers to any program or piece of code designed to intrude upon or harm a system or its resources. 
- ### types
- + virus: A program that replicates itself with the intent to infect more computers, either through network connections when it piggybacks on other files or through the exchange of external storage devices. 
- + Trojan horse: A program that disguises itself as something useful but actually harms your system.
-    - Trojan horses do not replicate themselves, they are not considered viruses.
- + worm: A program that runs independently of other software and travels between computers and across networks.
-    - Worms do not alter other programs in the same way that viruses do,
-    - but they can carry viruses. Because they can transport and hide viruses
-    - you should be concerned about picking up worms when you exchange files on the Internet, via email, or on flash drives.
- + bot (short for robot): A process that runs automatically, without requiring a person to start or stop it.
-    - Bots can be beneficial or malicious.
-    - Bots can be used to damage or destroy a computer’s data or system files, issue objectionable content, launch DoS attacks, or open back doors for further infestation. Bots are especially difficult to contain because of their fast, surreptitious, and distributed dissemination.
+## Malware Risks
++ Malware (short for malicious software) refers to any program or piece of code designed to intrude upon or harm a system or its resources. 
+### types
++ virus: A program that replicates itself with the intent to infect more computers, either through network connections when it piggybacks on other files or through the exchange of external storage devices. 
+  - [Top 10 Computer Viruses](https://www.popsci.com/scitech/article/2009-04/top-10-computer-viruses/)
++ Trojan horse: A program that disguises itself as something useful but actually harms your system.
+  - Trojan horses do not replicate themselves, they are not considered viruses.
+  - [Trojan horses](https://en.wikipedia.org/wiki/Trojan_horse_(computing)#:~:text=Examples%20of%20govware%20trojans%20include,becomes%20encrypted%20via%20other%20applications.)
++ worm: A program that runs independently of other software and travels between computers and across networks.
+  - Worms do not alter other programs in the same way that viruses do,
+  - but they can carry viruses. Because they can transport and hide viruses
+  - you should be concerned about picking up worms when you exchange files on the Internet, via email, or on flash drives.
++ bot (short for robot): A process that runs automatically, without requiring a person to start or stop it.
+  - Bots can be beneficial or malicious.
+  - Bots can be used to damage or destroy a computer’s data or system files, issue objectionable content, launch DoS attacks, or open back doors for further infestation. Bots are especially difficult to contain because of their fast, surreptitious, and distributed dissemination.
     
- + ransomware: A program that locks a user’s data or computer system until a ransom is paid. 
-    - Currently, the only mostly reliable defense is to make manual backups of data on a regular basis and disconnect the backup media from the computer between backups.
++ ransomware: A program that locks a user’s data or computer system until a ransom is paid. 
+  - Currently, the only mostly reliable defense is to make manual backups of data on a regular basis and disconnect the backup media from the computer between backups.
     
-    ![ransomware](https://d3i6fh83elv35t.cloudfront.net/newshour/app/uploads/2017/05/RTX35YNS-1024x765.jpg)
+  ![ransomware](https://d3i6fh83elv35t.cloudfront.net/newshour/app/uploads/2017/05/RTX35YNS-1024x765.jpg)
  
  
  
