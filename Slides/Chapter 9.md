@@ -152,6 +152,7 @@ and prevents it from being copied, such as downloading to a flash drive, or tran
 + back doors
   - security flaws that allow unauthorized users to gain access to the system.
   - the network administrator needs to perform regular updates.
+  - [OWASP 10 Most Common Backdoors](https://owasp.org/www-pdf-archive/OWASP_10_Most_Common_Backdoors.pdf)
  ## Malware Risks
  + Malware (short for malicious software) refers to any program or piece of code designed to intrude upon or harm a system or its resources. 
  ### types
@@ -169,7 +170,7 @@ and prevents it from being copied, such as downloading to a flash drive, or tran
  + ransomware: A program that locks a user’s data or computer system until a ransom is paid. 
     - Currently, the only mostly reliable defense is to make manual backups of data on a regular basis and disconnect the backup media from the computer between backups.
     
-    ![](https://d3i6fh83elv35t.cloudfront.net/newshour/app/uploads/2017/05/RTX35YNS-1024x765.jpg)
+    ![ransomware](https://d3i6fh83elv35t.cloudfront.net/newshour/app/uploads/2017/05/RTX35YNS-1024x765.jpg)
  
  
  
