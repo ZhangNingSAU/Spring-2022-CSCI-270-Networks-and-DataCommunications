@@ -140,7 +140,7 @@ and prevents it from being copied, such as downloading to a flash drive, or tran
   - HTTP
     + use HTTPS with SSL/TLS instead
     + [HTTP vs. HTTPS](https://www.cloudflare.com/learning/ssl/why-is-http-not-secure/#:~:text=HTTPS%20is%20HTTP%20with%20encryption,uses%20HTTPS%20has%20https%3A%2F%2F.)
-  - Telnet
+  - [Telnet](https://en.wikipedia.org/wiki/Telnet)
     + use along with IPsec
     + SLIP
       - use PPP instead
