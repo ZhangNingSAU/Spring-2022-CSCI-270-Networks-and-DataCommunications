@@ -310,7 +310,7 @@ Besides securing network devices from external tampering, you can take many step
 #### Updates to applications, operating systems, and device firmware 
 + fixing bugs
 + adding new features
-+ **closing security gaps**
++ **closing [security gaps](https://securityscorecard.com/blog/how-to-perform-an-information-security-gap-analysis#:~:text=Information%20security%20gap%20analysis%2C%20also,security%20to%20specific%20industry%20requirements.)**
 #### Security Patches
 security gaps are often addressed in smaller, more frequent updates called patches. The process of properly managing and applying security patches includes the following:
 
