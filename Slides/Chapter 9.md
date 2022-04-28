@@ -136,6 +136,7 @@ and prevents it from being copied, such as downloading to a flash drive, or tran
 + insecure protocols and services: 
   - Certain TCP/IP protocols are inherently insecure. 
     + FTP bounce:When a client running an FTP utility requests data from an FTP server, the client normally specifies its own IP address and FTP’s default port number.
+    + [FTP Bounce Attacks](http://etutorials.org/Networking/network+security+assessment/Chapter+8.+Assessing+FTP+and+Database+Services/8.4+FTP+Bounce+Attacks/)
   - HTTP
     + use HTTPS with SSL/TLS instead
     + [HTTP vs. HTTPS](https://www.cloudflare.com/learning/ssl/why-is-http-not-secure/#:~:text=HTTPS%20is%20HTTP%20with%20encryption,uses%20HTTPS%20has%20https%3A%2F%2F.)
