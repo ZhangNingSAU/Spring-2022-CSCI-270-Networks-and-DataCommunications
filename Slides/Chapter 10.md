@@ -27,9 +27,10 @@
 
 + **a proxy server represents a private network to another network (usually the Internet)**
 
-
+<!--
 ![](https://www.seobility.net/en/wiki/images/8/8a/Proxy-Server.png)
-
+-->
+<img src="https://www.seobility.net/en/wiki/images/8/8a/Proxy-Server.png" alt="Proxy-Server.png" width="600" height="400"/>
 
 ![](https://www.stupidproxy.com/wp-content/uploads/2018/04/how-proxy-server-work.png)
 
