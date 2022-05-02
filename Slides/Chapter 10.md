@@ -29,12 +29,17 @@
 
 <!--
 ![](https://www.seobility.net/en/wiki/images/8/8a/Proxy-Server.png)
--->
-<img src="https://www.seobility.net/en/wiki/images/8/8a/Proxy-Server.png" alt="Proxy-Server.png" width="600" height="400"/>
-
 ![](https://www.stupidproxy.com/wp-content/uploads/2018/04/how-proxy-server-work.png)
 
 ![proxy](../Resources/ch10-proxy.png)
+-->
+<img src="https://www.seobility.net/en/wiki/images/8/8a/Proxy-Server.png" alt="Proxy-Server.png" width="800" height="600"/>
+
+<img src="https://www.stupidproxy.com/wp-content/uploads/2018/04/how-proxy-server-work.png" alt="how-proxy-server-work" width="800" height="600"/>
+
+<img src="../Resources/ch10-proxy.png" alt="ch10-proxy.png" width="800" height="600"/>
+
+
 
 
 + proxy servers can provide some content filtering
