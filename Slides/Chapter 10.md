@@ -310,6 +310,7 @@ that its identity has been validated.
 #### A Kerberos server runs two services:
 + AS (authentication service)—Initially validates a client.
 + TGS (ticket-granting service)—Issues tickets to an authenticated client for access to services on the network.
++ [TGT](https://en.wikipedia.org/wiki/Ticket_Granting_Ticket)
 
 ![ticketgranting](../Resources/ch10-ticketgranting.png)
 
