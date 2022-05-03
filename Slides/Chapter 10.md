@@ -261,7 +261,7 @@ authentication process again.
         + permanently installed on a device. This more robust
 program might provide additional security measures, such as remote wipe, virus scans, and mass messaging.
     + agentless authentication
-      - in which the user is authenticated to a domain. Active Directory then scans the device to determine compliance with NAC requirements.
+      - in which the user is authenticated to a domain. [Active Directory](https://en.wikipedia.org/wiki/Active_Directory) then scans the device to determine compliance with NAC requirements.
 + Not every device that connects to a NAC-protected network must be preconfigured as an approved device.
   - Guest devices can be granted limited access to network resources in a guest network or public network, which provides a layer of protection from the private network’s resources.
   - devices that do not meet compliance requirements, or that are indicated to have been compromised, can be placed in a quarantine network, which is separate from sensitive network resources and might limit the amount of time the device can remain connected to the network, until remediation steps can be completed.
