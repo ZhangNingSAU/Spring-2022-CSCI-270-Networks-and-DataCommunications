@@ -3,7 +3,15 @@
 
 There are three types Access Lists in common:
 + **Standard Access List**
+  - 1~99
+  - applied closest to the destination
+  - deny or permit source IPs
 + Extended Access List
+  - 100~199
+  - applied closest to the source
+  - deny or permit source IPs
+  - deny or permit destination IPs
+  - deny or permit ports(services)
 + Named Access List
 
 ## Step 1: Configure the following topology
