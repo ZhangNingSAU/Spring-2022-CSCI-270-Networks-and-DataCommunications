@@ -1,6 +1,6 @@
-# CSCI 270 Fall 2021
+# CSCI 270 Spring 2022
 # Homework 7 for chapters 9 and 10
-# Due: 11:59 pm 12/09/2021
+# Due: 11:59 pm 05/10/2022
 
 ## Q1(15 points): Give the definations of the terms:
 + data breach
