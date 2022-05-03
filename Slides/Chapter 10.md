@@ -92,7 +92,7 @@
   - Transmissions that use the UDP or ICMP protocols
   - A packet’s status as the first packet in a new data stream or a subsequent packet
   - A packet’s status as inbound to or outbound from your private network
-+ For greater security， you may consider the factors when making your decision as follows:
++ For greater security, you may consider the factors when making your decision as follows:
   - Does the firewall support encryption?
   - Does the firewall support user authentication?
   - Does the firewall allow you to manage it centrally and through a standard interface?
