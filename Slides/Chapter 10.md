@@ -252,9 +252,14 @@ To balance network access with network security, a NAC (network access control) 
 + A NAC system employs a set of rules, called network policies, which determine the level and type of access granted to a device when it joins a network.
   - NAC systems authenticate and authorize devices by verifying that the device complies with predefined security benchmarks.
     + such as whether the device has certain system settings, or whether it has specific applications installed.
-    + software: agent
+    + agent: software that must be installed on the device before the device can be authenticated.
       - nonpersistent agent
+        + remains on the device long enough to verify compliance and complete authentication, and then uninstalls.
+        + Devices might be required to periodically reinstall the agent to complete the
+authentication process again.
       - persistent agent
+        + permanently installed on a device. This more robust
+program might provide additional security measures, such as remote wipe, virus scans, and mass messaging.
     + agentless authentication
       - in which the user is authenticated to a domain. Active Directory then scans the device to determine compliance with NAC requirements.
 + Not every device that connects to a NAC-protected network must be preconfigured as an approved device.
