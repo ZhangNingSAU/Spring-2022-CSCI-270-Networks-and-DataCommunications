@@ -213,8 +213,11 @@
 #### Local Authentication
 + Usernames and passwords are stored locally
   - low security
+    + Most end user devices are less secure than network servers. A hacker can attempt a brute force attack or other workarounds to access a single device. If those same credentials are used on other devices, then all these devices are compromised. Also, local authentication does not allow for remotely locking down a user account.
   - convenience varies
+    + For only a handful of devices, managing local accounts can be done a lot more easily than setting up a Windows domain, directory services, and all the supporting configurations. However, once you surpass about a dozen devices, the convenience of local authentication declines considerably.
   - reliable backup access
+    + In the case of a network failure or server failure, the only workable option is local authentication. For this reason, networking devices and servers should be configured with a local privileged account that is only used when authentication services on the network are unavailable, and of course this account should have very secure credentials.
 + With local authentication, every computer (workstation or server) on the network is responsible for securing its own resources
 
 #### Network Authentication and Logon Restrictions
