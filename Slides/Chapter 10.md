@@ -227,7 +227,7 @@
   - source address
   - unsuccessful logon attempts
   - geographic location
-    + With geofencing, GPS (global positioning system) or RFID (radio frequency identification) data is sent to the authentication server to report the location of the device attempting to authenticate to the network.
+    + With [geofencing](https://en.wikipedia.org/wiki/Geo-fence), GPS (global positioning system) or RFID (radio frequency identification) data is sent to the authentication server to report the location of the device attempting to authenticate to the network.
     
 ### Authorization
 + User access to network resources falls into one of these two categories:
