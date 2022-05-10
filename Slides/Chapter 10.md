@@ -221,6 +221,7 @@
 + With local authentication, every computer (workstation or server) on the network is responsible for securing its own resources
 
 #### Network Authentication and Logon Restrictions
++ With network authentication, you can sign in to the network using the network user account that is stored in [Active Directory]((https://en.wikipedia.org/wiki/Active_Directory)).
 + You can harden your network by requiring secure passwords to authenticate to the network. The following is a list of additional authentication restrictions that strengthen network security:
   - time of day
   - total time logged on
