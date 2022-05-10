@@ -221,7 +221,7 @@
 + With local authentication, every computer (workstation or server) on the network is responsible for securing its own resources
 
 #### Network Authentication and Logon Restrictions
-+ You can harden your network by requiring secure passwords to authenticate to the network.
++ You can harden your network by requiring secure passwords to authenticate to the network. The following is a list of additional authentication restrictions that strengthen network security:
   - time of day
   - total time logged on
   - source address
